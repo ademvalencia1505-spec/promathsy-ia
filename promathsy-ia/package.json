@@ -1,0 +1,10 @@
+{
+  "name": "promathsy-ia",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Web de matemáticas con preguntas diarias generadas por IA",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9"
+  }
+}
